@@ -70,9 +70,3 @@
 - `matplotlib` — графики
 - `seaborn` — графики
 - `os` — работа с файлами
-
-## Запуск проекта на Binder
-
-Для запуска проекта на Binder, перейдите сюда:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/april8moon/ClashOfClans_analysis/tree/develop/HEAD?urlpath=http%3A%2F%2Flocalhost%3A8888%2Fnotebooks%2FClash%2520of%2520Clans.ipynb)
